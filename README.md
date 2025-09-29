@@ -44,22 +44,22 @@ Cityscapes could be downloaded from here. Camvid could be downloaded from here. 
 If you want to train the SGTNet network on the Cityscapes dataset, please use the following instructions:
 Single gpu for train:
 ```txt
-CUDA_VISIBLE_DEVICES=0 python ./mmsegmentation/tools/train.py rdrnet-s-simple_2xb6-120k_cityscapes-1024x1024.py --work-dir ./weight/seg
+CUDA_VISIBLE_DEVICES=0 python ./mmsegmentation/tools/train.py SGTNet-120k_cityscapes-1024x1024.py --work-dir ./weight/seg
 ```
 Multiple gpus for train:
 ```txt
-CUDA_VISIBLE_DEVICES=0,1 bash ./mmsegmentation/tools/dist_train.sh rdrnet-s-simple_2xb6-120k_cityscapes-1024x1024.py 2 --work-dir ./weight/seg
+CUDA_VISIBLE_DEVICES=0,1 bash ./mmsegmentation/tools/dist_train.sh SGTNet-120k_cityscapes-1024x1024.py 2 --work-dir ./weight/seg
 ```
 Train in pycharm: If you want to train in pycharm, you can run it in train.py.
 see more details at mmsegmentation.
 ## Testing
 ```txt
-CUDA_VISIBLE_DEVICES=0,1 bash ./mmsegmentation/tools/dist_train.sh rdrnet-s-simple_2xb6-120k_cityscapes-1024x1024.py 2 --work-dir ./weight/seg
+CUDA_VISIBLE_DEVICES=0,1 bash ./mmsegmentation/tools/dist_train.sh SGTNet-120k_cityscapes-1024x1024.py 2 --work-dir ./weight/seg
 ```
 Test in pycharm: If you want to test in pycharm, you can run it in test.py.
 see more details at mmsegmentation.
 ## Usage
-To visualize your model, go to show_cityscapes.py.
+To visualize your model, go to text.py.
 
 To see the model definitions and do some speed tests, go to MSDSeg.py.
 
