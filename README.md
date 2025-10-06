@@ -66,14 +66,14 @@ see more details at mmsegmentation.
 ## Usage
 To visualize your model, go to text.py.
 
-To see the model definitions and do some speed tests, go to MSDSeg.py.
+To see the model definitions and do some speed tests, go to sgtnet.py.
 
 To train, validate, benchmark, and save the results of your model, go to train.py.
 ## Citation
 If you find our work helpful, please consider citing our paper.
 ```txt
-@article{wang2025msdseg,
-  title={Lightweight and Real-Time Semantic Segmentation Network with MultiScale Dilated Convolutions},
+@article{zhou2025sgtnet,
+  title={SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features},
   author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
   journal={The Visual Computer},
   year={2025}
