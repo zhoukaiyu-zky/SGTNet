@@ -1,6 +1,6 @@
 # SGTNet
 ### The official implementation of "SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features"
-![image](https://github.com/zhoukaiyu-zky/SGTNet/blob/main/pictures/model_comparison.png)
+![image](https://github.com/zhoukaiyu-zky/SGTNet/blob/main/pictures/1.png)
 # Experiment
 ## Environment
 ```txt
