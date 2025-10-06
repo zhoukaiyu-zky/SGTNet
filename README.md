@@ -1,6 +1,6 @@
 # SGTNet
-##The official implementation of "SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features"
-![SGTNet segmentation result](./figures/sgtnet_result.png)
+## The official implementation of "SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features"
+![SGTNet segmentation result](./figures/1总体结构图 - 无上采样 - 256.pdf)
 # Experiment
 ## Environment
 ```txt
