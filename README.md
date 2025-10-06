@@ -73,7 +73,7 @@ To train, validate, benchmark, and save the results of your model, go to train.p
 If you find our work helpful, please consider citing our paper.
 ```txt
 @article{zhou2025sgtnet,
-  title={SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features},
+  title={A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features},
   author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
   journal={The Visual Computer},
   year={2025}
