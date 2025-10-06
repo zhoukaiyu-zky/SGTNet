@@ -1,5 +1,8 @@
 # SGTNet
 ### The official implementation of "SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features"
+SGTNet
+![image](https://github.com/zhoukaiyu-zky/SGTNet/blob/main/pictures/2.png)
+Comparison of MSDSeg with some state-of-the-art methods on the Cityscapes test dataset.
 ![image](https://github.com/zhoukaiyu-zky/SGTNet/blob/main/pictures/1.png)
 # Experiment
 ## Environment
