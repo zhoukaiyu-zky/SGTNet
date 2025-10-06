@@ -1,5 +1,5 @@
 # SGTNet
-### The official implementation of "SGTNet: A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features"
+### The official implementation of "SGTNet: Real-Time Semantic Segmentation via Sparse Transformer Integration and Multi-Scale Feature Fusion"
 SGTNet
 ![image](https://github.com/zhoukaiyu-zky/SGTNet/blob/main/pictures/2.png)
 Comparison of MSDSeg with some state-of-the-art methods on the Cityscapes test dataset.
@@ -73,7 +73,7 @@ To train, validate, benchmark, and save the results of your model, go to train.p
 If you find our work helpful, please consider citing our paper.
 ```txt
 @article{zhou2025sgtnet,
-  title={A Real-Time Semantic Segmentation Network Integrating Sparse Transformer Features and Multi-Level Local Features},
+  title={Real-Time Semantic Segmentation via Sparse Transformer Integration and Multi-Scale Feature Fusion},
   author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
   journal={The Visual Computer},
   year={2025}
