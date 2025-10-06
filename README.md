@@ -74,7 +74,7 @@ If you find our work helpful, please consider citing our paper.
 ```txt
 @article{zhou2025sgtnet,
   title={Real-Time Semantic Segmentation via Sparse Transformer Integration and Multi-Scale Feature Fusion},
-  author={Shan Zhao, Yunlei Wang, Zhanqiang Huo, Fukai Zhang},
+  author={Shan Zhao, Kaiyu Zhou, Fukai Zhang, Zhanqiang Huo, Yingxu Qiao},
   journal={The Visual Computer},
   year={2025}
 }
